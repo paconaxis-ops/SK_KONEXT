@@ -1,0 +1,23 @@
+# Dependencies
+/vendor/
+
+# Uploads (user uploaded files)
+/Uploads/
+/Superadmin/Uploads/
+/sk_konext/Uploads/
+
+# Config / sensitive files
+db.php
+db_connect.php
+email_config.php
+config/iprog.php
+
+# Environment
+.env
+*.log
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
